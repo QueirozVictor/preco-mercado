@@ -1,0 +1,19 @@
+/* Tema C2 — painel claro e vivo (azul, verde, framboesa).
+   Para mudar o visual, troque os valores abaixo. */
+:root {
+  --fundo: #f3f6ff;
+  --superficie: #ffffff;
+  --texto: #101a3d;
+  --texto-suave: #4b5675;
+  --borda: #aeb8e8;
+  --primaria: #2f43f0;
+  --primaria-texto: #ffffff;
+  --primaria-clara: #e4e9ff;
+  --barato-fundo: #ddf7ea;
+  --barato-texto: #066f4a;
+  --caro-fundo: #ffe3ee;
+  --caro-texto: #c8185a;
+  --raio: 14px;
+  --fonte: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --fonte-mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+}

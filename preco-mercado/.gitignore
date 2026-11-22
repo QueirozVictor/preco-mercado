@@ -1,0 +1,24 @@
+# Dependências e build
+node_modules
+dist
+dist-ssr
+
+# Variáveis de ambiente (chaves do Supabase) — mantenha só o .env.example no Git
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor e sistema
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+
+# Cache
+.vite
+*.local
